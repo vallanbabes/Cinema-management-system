@@ -1,21 +1,25 @@
-Activity Diagrams for Cinema Management System
-UC1: Create Hall (Admin) Activity Diagram
-https:///docs/schema/activity_UC1.png
+# Activity Diagrams for HotelBookingV2
 
-UC2: Add Showtime Activity Diagram
-https:///docs/schema/activity_UC2.png
+## UC1: Register User Activity Diagram
 
-UC3: Get Hall Info with Showtimes Activity Diagram
-https:///docs/schema/activity_UC3.png
+![UC1 Register User](/docs/schema/activity_CU1.png)
 
-UC4: Filter Showtimes by Date Activity Diagram
-https:///docs/schema/activity_UC4.png
+## UC2: View Hotels Activity Diagram
 
-UC5: Update Hall Info (Admin) Activity Diagram
-https:///docs/schema/activity_UC5.png
+![UC2 View Hotels](/docs/schema/activity_CU2.png)
 
-UC6: Bulk Create Halls (Admin) Activity Diagram
-https:///docs/schema/activity_UC6.png
+## UC3: Book Room Activity Diagram
 
-UC7: Delete Showtime (Admin) Activity Diagram
-https:///docs/schema/activity_UC7.png
+![UC3 Book Room](/docs/schema/activity_CU3.png)
+
+## UC4: Add Hotel to Favorites Activity Diagram
+
+![UC4 Add Hotel to Favorites](/docs/schema/activity_CU4.png)
+
+## UC5: Manage Rooms (Admin) Activity Diagram
+
+![UC5 Manage Rooms](/docs/schema/activity_CU5.png)
+
+## UC6: View Statistics (Admin) Activity Diagram
+
+![UC6 View Statistics](/docs/schema/activity_CU6.png)
