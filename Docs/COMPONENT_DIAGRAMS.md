@@ -2,4 +2,4 @@
 
 ## System Architecture Components
 
-![Cinema System Component Diagram](/Docs/schema/component.png)
+![Cinema System Component Diagram](/Docs/schema/components.png)
