@@ -1,25 +1,29 @@
-# Activity Diagrams for HotelBookingV2
+# Activity Diagrams for Cinema Management System
 
-## UC1: Register User Activity Diagram
+## 1. Процесс создания нового зала (администратором)
 
-![UC1 Register User](/docs/schema/activity_CU1.png)
+![UC1 Create Hall](/docs/schema/activity_UC1.png)
 
-## UC2: View Hotels Activity Diagram
+## 2. Процесс добавления сеанса (showtime)
 
-![UC2 View Hotels](/docs/schema/activity_CU2.png)
+![UC2 Add Showtime](/docs/schema/activity_UC2.png)
 
-## UC3: Book Room Activity Diagram
+## 3. Получение информации о зале с сеансами
 
-![UC3 Book Room](/docs/schema/activity_CU3.png)
+![UC3 Get Hall Info](/docs/schema/activity_UC3.png)
 
-## UC4: Add Hotel to Favorites Activity Diagram
+## 4. Процесс фильтрации сеансов по дате
 
-![UC4 Add Hotel to Favorites](/docs/schema/activity_CU4.png)
+![UC4 Filter Showtimes](/docs/schema/activity_UC4.png)
 
-## UC5: Manage Rooms (Admin) Activity Diagram
+## 5. Процесс обновления информации о зале
 
-![UC5 Manage Rooms](/docs/schema/activity_CU5.png)
+![UC5 Update Hall](/docs/schema/activity_UC5.png)
 
-## UC6: View Statistics (Admin) Activity Diagram
+## 6. Процесс массового создания залов (bulk)
 
-![UC6 View Statistics](/docs/schema/activity_CU6.png)
+![UC6 Bulk Create Halls](/docs/schema/activity_UC6.png)
+
+## 7. Процесс удаления сеанса
+
+![UC7 Delete Showtime](/docs/schema/activity_UC7.png)
